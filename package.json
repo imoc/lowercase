@@ -1,0 +1,18 @@
+{
+  "name": "lowercase",
+  "version": "0.0.1",
+  "description": "A demo package",
+  "main": "example.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lowercase",
+    "study"
+  ],
+  "author": "davinci <dao.dev@qq.com>",
+  "license": "MIT"
+}
